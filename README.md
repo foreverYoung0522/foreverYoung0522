@@ -1,64 +1,77 @@
-## 👋 Sangsu Parks 포트폴리오 https://sangsupark.netlify.app/
+## 👋 Raeyoung Oh
 
 ---
 ## About Me
-IoT, Embedded,  Mobile Application, Back-end Server 개발을 좋아하는 신입 개발자입니다. 현재는 사회적 약자를 위한 프로젝트를 진행중입니다. 기술의 도움을 통해 불편함을 가진 사람들이 비장애인들과 동일한 사회를 만들어가는 것이 제 꿈입니다.
+  Back-end Server, android 관련 신입 개발자 입니다. 벡엔드 관련 node.js, django 다루며 mysql전문 지식으로 클라우드 컴퓨팅을 활용해 서비스 api를 구축할 수 있습니다. 해당 기술으로 공모전에 참여했습니다. 추후 back-end 개발직에 종사하는 것이 목표입니다.
+
+<bn>
+
+  기본적인 c,python,c++,java 등의 언어에 익숙하고 관련 토이 프로젝트 경험이 많습니다.
+java 사용한 android 어플리케이션 개발 경험이 많고, 수상작이 있습니다.
 
 
 
 ---
 ## Project
 #### 🎹 눈으로 치는 피아노 눈치피아노 : Noonchi-Piano [Go!](https://github.com/NoonChi-PIANO/noonchi-piano-rep)
-2021 KPU Capstone Design Contest 벤처기업협회장 수상작입니다. 초보자들이 피아노를 쉽게 배울수 있도록 만든 애플리케이션으로, WAMP를 이용한 클라우드 서버 구축과 음계 인식 모듈을 개발했습니다. 2020.09~ 2021.09
+2021 kpu 산학기술 산학융합대전 벤처기업협회장 수상 및 Capstone Design Contest 대상 수상작입니다. 초보자들이 피아노를 쉽게 배울수 있도록 만든 애플리케이션으로, 팀장으로 프로젝트를 이끌었고, C++ OpenCV 라이브러리로 자체 악보인식 프로그램 개발과 자체 프로토콜 데이터 정의 후 인식한 악보를 리듬 막대로 변환하는 알고리즘 개발 담당을 맡았습니다. 2020.09~ 2021.09
 
-#### 🖧 IBM Watson Cloud (IoT) : 전신주 안전관리 시스템 [Go!](https://github.com/KPU-K-DIGITAL-IOT/KDigitalIoTProject)
-한국산업기술대학교 K-Digital Tranning의 최종프로젝트입니다. 팀장으로써 전체 프로그램 설계와, 라즈베리파이를 이용한 IoT 시스템 구축 및 Node-Red 설계를 하였습니다. 최종 프로젝트 우승작입니다. 2021.07~2021.08
-
+#### 🖧 Moiza : 공모전 팀 빌딩 시스템 [Go!](https://github.com/Moizar-BRIDGE)
+wanted 대규모 해커톤 해.커리어 공모전 출품작입니다. 위드 코로나 시대에 대학생들이 쉽게 공모전에 참여하고 팀 빌딩을 할 수 있도록 만든 애플리케이션으로, nodejs와 msyql을 사용해 api를 개발했고, 
+aws s3, cloudwatch, rds 등 서비스를 사용해 클라우드 서버를 구축했습니다. 또한 python과 selenium을 사용해 웹 페이지에서 공모전 정보를 자동으로 가져오는 serverless 프로그램을 개발했습니다.
+2021.11 ~2021.12
 
 #### 🖳 임베디드 프로젝트 : 뱀 게임 [Go!](https://github.com/Const4nt0228/Embedded_Snake_Game)
 한국산업기술대학교 임베디드 시스템 과목 최종 프로젝트입니다. Linux 상에서 C언어로 제작된 뱀게임 로직과 Achro-EM Dot Matrix 제어부분을 구현하였습니다.  2020.09~2020.12
 
 #### 🚗 IoT 프로젝트 : 라즈베리파이 라인트레이서 [Go!](https://github.com/Const4nt0228/RASPI_LineTracer)
-한국산업기술대학교 IoT 시스템 과목 최종 프로젝트입니다. 라즈베리파이의 라즈비안OS 상에서 Python으로 동작하는 라인트레이서 자동차입니다. 회로 설계, 라인트레이싱 코드, HTML 조종 페이지를 제작하였습니다.  2021.03~2021.06
+한국산업기술대학교 IoT 시스템 과목 최종 프로젝트입니다. 라즈베리파이의 라즈비안OS 상에서 Python으로 동작하는 라인트레이서 자동차입니다. 라인트레이싱 코드를 제작했습니다.  2021.03~2021.06
 
 
 ---
 ## Experience
 
-#### 원트리즈뮤직
-ICT 인턴쉽 과정으로 원트리즈뮤직에서 인턴 활동을 수행하고있습니다.  
-인턴과정이기때문에 제가 프로젝트를 맡아서 하는 것은 아니지만, 회사의 소프트웨어 코드를 리뷰하면서 프로그램의 작동원리와 생명주기등을 배우고 있고 회사 선배님들의 조언에 따라 실무 노하우를 차근차근 배워나가는 중입니다.
+#### 프로보노 ICT 멘토링
 
-#### K-Digital Tranning
-IoT가전/스마트홈 교육을통해 IoT, 임베디드 시스템에 관한 전반적인 기술과 IBM Watson Cloud를 접목하여 IoT시스템의 클라우드화를 수행하였습니다.   
-전신주 안전관리 시스템 구축 프로젝트에서 팀장 역할을 수행하였고, Raspberry Pi를 이용하여 각각의 센서들을 통해 전신주의 데이터를 MQTT를 이용하여 클라우드에 전송하며, IBM Watson Cloud에서 측정된 센서값을 수신하여 GUI를 통해 사용자에게 실시간으로 전신주 상태를 모니터링하는 시스템을 구현하였습니다.
+#### wanted 해.커리어 공모전
+
+#### 졸업작품 capston design contest
 
 ---
 ## Skills
 #### Languages & Frameworks
-IoT와 임베디드 프로젝트를 진행할때는 주로 C, Python 을 많이 이용합니다. 안드로이드 앱 개발은 주로 Java를 사용하며 토이 프로젝트들은 Kotlin으로 진행하고있습니다. 백엔드 서버는 PHP를 사용하여 구축하고있습니다.
+  
++ node.js와 django, mysql사용한 api 개발
+  
+  <bn>
+    
++ Java 언어 사용 android studio 앱 개발
+    
++ c,python 등의 언어 사용한 임베디드 시스템 개발
+
++ C++ OpenCV 라이브러리를 활용한 영상처리 시스템 개발
+    
++ AWS 각종 서비스를 활용한 클라우드 서버 구축
+
+  
 
 #### Certificate
-+ 정보처리기사 한국산업인력공단 2021.11.26
-+ 정보처리기능사 한국산업인력공단 2018.05.12
-+ SQLD 한국데이터산업진흥원 2020.10.06
++ 정보처리기사 한국산업인력공단 2021.08.20
++ SQLD 한국데이터산업진흥원 2021.10.01
 
 
 ---
 #### Other
-MySQL, MariaDB  
-Amazon Web Services (AWS), Naver Cloud
+selenium, mariaDB, javascript, firebase realtime db, Nginx(proxy server)
 
 ---
 ### Toy Project
-+ 스마트폰 마이크를 이용한 피아노 음계인식 [Go!](https://github.com/Const4nt0228/Android-FFT-Sound-Recognizer)
-+ 스마트폰을 이용한 전자피아노 MIDI신호 분석기 [Go!](https://github.com/Const4nt0228/Android-MIDI-Recognizer)
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Const4nt0228)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverYoung0522)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Const4nt0228&exclude_repo=rymduckApp&hide=Batchfile,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverYoung0522&exclude_repo=rymduckApp&hide=Batchfile,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
