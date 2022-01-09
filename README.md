@@ -41,8 +41,9 @@ aws s3, cloudwatch, rds 등 서비스를 사용해 클라우드 서버를 구축
 ## Skills
 #### Languages & Frameworks
   
-+ node.js와 django, mysql사용한 api 개발
-  
++ node.js, Spring, django 프레임 워크와 mysql사용한 api 개발
+
++ Spring mvc, 마이크로 서비스 아키텍처 api 프로젝트 개발  
   <bn>
     
 + Java 언어 사용 android studio 앱 개발
@@ -52,6 +53,10 @@ aws s3, cloudwatch, rds 등 서비스를 사용해 클라우드 서버를 구축
 + C++ OpenCV 라이브러리를 활용한 영상처리 시스템 개발
     
 + AWS 각종 서비스를 활용한 클라우드 서버 구축
+    
++ javaScript, Kotlin 등 다양한 언어 활용 가능
+    
++ selenium 활용 serverless 자동화 웹 크롤러 개발
 
   
 
