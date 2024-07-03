@@ -2,21 +2,22 @@
 
 ---
 ## About Me
-Back-end Server, android 관련 신입 개발자 입니다. 벡엔드 관련 Spring, node.js, django 프레임워크를 다루며 mysql전문 지식으로 클라우드 컴퓨팅을 활용해 api 서비스를 구축할 수 있습니다. 해당 기술으로 해.커리어 공모전에 참여했습니다. back-end 개발직에 종사하는 것이 목표입니다.
+Backend Server 개발자 입니다. Spring 프레임워크를 주로 다루며 Java, Kotlin을 주 언어로 사용했습니다. mysql, oracle에 대한 전반적인 지식이 있으며, 서버 개발운영자로서 AWS 서버 구성 및 인프라에 대한 기본적인 지식을 가지고 있습니다.
+직접 클라우드 컴퓨팅을 활용해 api 서비스를 구축할 수 있습니다. 
   
 <bn>
 
-기본적인 c,python,c++,java 등의 언어에 익숙하고 관련 토이 프로젝트 경험이 많습니다.
-java 사용한 android 어플리케이션 개발 경험이 많고, 수상작이 있습니다.
+Java, Kotlin 외에도 기본적인 c,python,c++ 등의 언어에 익숙하고 관련 토이 프로젝트 경험이 많습니다. 백엔드 담당으로 해.커리어 해커톤에 참여했던 경험이 있습니다. 
+java 사용한 android 어플리케이션 개발 경험도 있고, 수상작이 있습니다.
   
-  <bn>
+<bn>
     
 프로젝트에서 팀장으로 총괄한 경험이 많습니다. 팀장으로서 전체적인 프로젝트 일정, 협업 관리에 능합니다. 팀원들과 실시간으로 소통하면서 개발하는 것을 좋아하며, 누구와도 잘 협업할 수 있는 능력이 있습니다. 
 
 
 
 ---
-## Project
+## Toy Projects
 #### 🎹 눈으로 치는 피아노 눈치피아노 : Noonchi-Piano [Go!](https://github.com/NoonChi-PIANO/noonchi-piano-rep)
 2021 kpu 산학기술 산학융합대전 벤처기업협회장 수상 및 Capstone Design Contest 대상 수상작입니다. 초보자들이 피아노를 쉽게 배울수 있도록 만든 애플리케이션으로, 팀장으로 프로젝트를 이끌었습니다. C++ OpenCV 라이브러리로 자체 악보인식 프로그램 개발과 자체 프로토콜 데이터 정의 후 인식한 악보를 리듬 막대로 변환하는 알고리즘 개발 담당을 맡았습니다. 2020.09~ 2021.09
 
@@ -44,23 +45,28 @@ aws s3, cloudwatch, rds 등 서비스를 사용해 클라우드 서버를 구축
 ---
 ## Skills
 #### Languages & Frameworks
-  
-+ node.js, Spring, django 프레임 워크와 mysql사용한 api 개발
 
-+ Spring mvc, 마이크로 서비스 아키텍처 api 프로젝트 개발  
-  <bn>
-    
-+ Java 언어 사용 android studio 앱 개발
-    
-+ c,python 등의 언어 사용한 임베디드 시스템 개발
++ 주 Java, Kotlin 개발
+
++ Spring 프레임 워크 api 개발 및 유지보수
+
++ MSA api 프로젝트 개발 경험
+
++ mysql, oracle 활용 경험
+
++ AWS 각종 서비스를 활용한 인프라 경험 (람다 배치 작성 등)
+
++ ELK, OpenSearch 활용한 로그 모니터링 시스템 구축 경험
+
++ gitlab api, GPT LLM api 사용하여 AI gitlab 코드리뷰어 개발 및 구축 경험
 
 + C++ OpenCV 라이브러리를 활용한 영상처리 시스템 개발
     
-+ AWS 각종 서비스를 활용한 클라우드 서버 구축
++ Java 언어 사용 android studio 앱 토이 프로젝트 개발 경험
     
-+ javaScript, Kotlin 등 다양한 언어 활용 가능
++ c,python 등의 언어 사용한 임베디드 토이 프로젝트 개발 경험
     
-+ selenium 활용 serverless 자동화 웹 크롤러 개발
++ selenium 활용 serverless 자동화 웹 크롤러 개발 경험
 
   
 
